@@ -3,7 +3,7 @@
 ## Tech Store💻
 
 ### Live Link: 
-https://techstore2021.netlify.app/
+https://tech-store2021.netlify.app/
 
 ### Path
 ##### Explore the shop --> Add to Cart --> Checkout/Empty Cart 
